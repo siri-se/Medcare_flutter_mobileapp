@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273112166536",
+    "project_id": "medcare-reminde",
+    "storage_bucket": "medcare-reminde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273112166536:android:d24f16ff246f35d6456f3d",
+        "android_client_info": {
+          "package_name": "com.example.medcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jujE8IMihGhlM4EhJqw-ngZUBPkUDOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
